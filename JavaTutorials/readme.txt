@@ -1,0 +1,1 @@
+git push origin local_branch_name:remote_branch_name
